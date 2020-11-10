@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MW-LP-Final-Project-Graphics"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TroubleTheGame">
+				<Option output="C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/TroubleTheGame.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/Common Files/freeglut/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/Makefile&quot;  VERBOSE=1 TroubleTheGame"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="TroubleTheGame/fast">
+				<Option output="C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/TroubleTheGame.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/Common Files/freeglut/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/Makefile&quot;  VERBOSE=1 TroubleTheGame/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="graphics">
+				<Option output="C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/graphics.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/Common Files/freeglut/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/Makefile&quot;  VERBOSE=1 graphics"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="graphics/fast">
+				<Option output="C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/graphics.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/Common Files/freeglut/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/9.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/Makefile&quot;  VERBOSE=1 graphics/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Circle.cpp">
+			<Option target="graphics"/>
+		</Unit>
+		<Unit filename="C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Circle.h">
+			<Option target="graphics"/>
+		</Unit>
+		<Unit filename="C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Game.cpp">
+			<Option target="TroubleTheGame"/>
+			<Option target="graphics"/>
+		</Unit>
+		<Unit filename="C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Game.h">
+			<Option target="graphics"/>
+		</Unit>
+		<Unit filename="C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Graphics.cpp">
+			<Option target="graphics"/>
+		</Unit>
+		<Unit filename="C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Graphics.h">
+			<Option target="graphics"/>
+		</Unit>
+		<Unit filename="C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Octagon.cpp">
+			<Option target="TroubleTheGame"/>
+			<Option target="graphics"/>
+		</Unit>
+		<Unit filename="C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Octagon.h">
+			<Option target="graphics"/>
+		</Unit>
+		<Unit filename="C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Shape.cpp">
+			<Option target="graphics"/>
+		</Unit>
+		<Unit filename="C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Shape.h">
+			<Option target="graphics"/>
+		</Unit>
+		<Unit filename="C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Square.cpp">
+			<Option target="TroubleTheGame"/>
+			<Option target="graphics"/>
+		</Unit>
+		<Unit filename="C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Square.h">
+			<Option target="graphics"/>
+		</Unit>
+		<Unit filename="C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Team.cpp">
+			<Option target="TroubleTheGame"/>
+			<Option target="graphics"/>
+		</Unit>
+		<Unit filename="C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Team.h">
+			<Option target="graphics"/>
+		</Unit>
+		<Unit filename="C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Trouble.cpp">
+			<Option target="TroubleTheGame"/>
+			<Option target="graphics"/>
+		</Unit>
+		<Unit filename="C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Trouble.h">
+			<Option target="graphics"/>
+		</Unit>
+		<Unit filename="C:/Users/mwehr/Documents/1st Semester Junior/Trouble/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

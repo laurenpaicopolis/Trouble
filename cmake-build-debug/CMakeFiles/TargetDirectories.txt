@@ -1,0 +1,4 @@
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/CMakeFiles/TroubleTheGame.dir
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/CMakeFiles/graphics.dir
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/cmake-build-debug/CMakeFiles/rebuild_cache.dir

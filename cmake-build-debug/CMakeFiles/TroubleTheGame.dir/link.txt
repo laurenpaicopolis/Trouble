@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\TroubleTheGame.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\TroubleTheGame.dir/objects.a @CMakeFiles\TroubleTheGame.dir\objects1.rsp
+C:\MinGW\bin\g++.exe  -Wno-deprecated -Werror=return-type -g   -Wl,--whole-archive CMakeFiles\TroubleTheGame.dir/objects.a -Wl,--no-whole-archive  -o TroubleTheGame.exe -Wl,--out-implib,libTroubleTheGame.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TroubleTheGame.dir\linklibs.rsp

@@ -1,0 +1,162 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Program Files/Common Files/freeglut/include/GL/freeglut_std.h
+windows.h
+-
+EGL/egl.h
+-
+GLES/gl.h
+-
+GLES2/gl2.h
+-
+OpenGL/gl.h
+-
+OpenGL/glu.h
+-
+GL/gl.h
+-
+GL/glu.h
+-
+stdlib.h
+-
+
+C:/Program Files/Common Files/freeglut/include/GL/glut.h
+freeglut_std.h
+C:/Program Files/Common Files/freeglut/include/GL/freeglut_std.h
+
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Circle.h
+math.h
+-
+string
+-
+Shape.h
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Shape.h
+
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Game.h
+iomanip
+-
+Graphics.h
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Graphics.h
+
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Graphics.cpp
+Game.h
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Game.h
+Trouble.h
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Trouble.h
+Team.h
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Team.h
+Circle.h
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Circle.h
+Graphics.h
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Graphics.h
+Shape.h
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Shape.h
+Square.h
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Square.h
+Octagon.h
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Octagon.h
+vector
+-
+iostream
+-
+ctime
+-
+stdlib.h
+-
+memory
+-
+string
+-
+
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Graphics.h
+Circle.h
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Circle.h
+Shape.h
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Shape.h
+stdlib.h
+-
+windows.h
+-
+sys/time.h
+-
+GLUT/glut.h
+-
+GL/glut.h
+-
+
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Octagon.cpp
+Graphics.h
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Graphics.h
+Octagon.h
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Octagon.h
+
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Octagon.h
+Shape.h
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Shape.h
+vector
+-
+
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Shape.cpp
+Shape.h
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Shape.h
+Graphics.h
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Graphics.h
+
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Shape.h
+
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Square.cpp
+Graphics.h
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Graphics.h
+Square.h
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Square.h
+
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Square.h
+Shape.h
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Shape.h
+vector
+-
+string
+-
+
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Team.cpp
+iostream
+-
+Team.h
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Team.h
+
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Team.h
+iostream
+-
+vector
+-
+Graphics.h
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Graphics.h
+
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Trouble.cpp
+iostream
+-
+Trouble.h
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Trouble.h
+Team.h
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Team.h
+Game.h
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Game.h
+
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Trouble.h
+Game.h
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Game.h
+Team.h
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Team.h
+Graphics.h
+C:/Users/mwehr/Documents/1st Semester Junior/Trouble/Graphics.h
+iostream
+-
+iomanip
+-
+
