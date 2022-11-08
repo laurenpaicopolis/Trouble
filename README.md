@@ -3,7 +3,7 @@
 ## Lauren Paicopolis & Michelle Wehrle
 
 ## Welcome to the Game of Trouble!
-- The rules of the game are as follows: 
+## The rules of the game are as follows: 
 - There will be 4 players (the user will be one and the rest will be CPU players). 
 - The goal of the game is to be the first player to move all four of your pieces from home to finish. 
 - You must roll a 6 in order to move a piece out of home.
